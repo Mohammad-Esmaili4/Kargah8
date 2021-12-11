@@ -1,0 +1,9 @@
+*{
+    background-color: lightyellow;
+    text-decoration: none;
+    color: black;
+}
+
+.contact label{
+    display:block;
+}
